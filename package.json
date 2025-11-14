@@ -12,7 +12,7 @@
   },
   "packageManager": "npm@10.8.2",
   "dependencies": {
-    "@ai-sdk/react": "^2.0.8",
+    "@ai-sdk/react": "^2.0.52",
     "@anycable/web": "^1.1.0",
     "@helperai/client": "^0.4.4",
     "@helperai/react": "^0.9.4",
@@ -48,7 +48,7 @@
     "fast-average-color": "^9.4.0",
     "immer": "^10.0.0",
     "jquery": "^3.6.3",
-    "js-yaml": "^4.1.0",
+    "js-yaml": "^4.1.1",
     "json-schema-to-ts": "^3.0.0",
     "libphonenumber-js": "^1.10.15",
     "lodash": "^4.17.21",
