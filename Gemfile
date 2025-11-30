@@ -129,7 +129,7 @@ gem "mysql2", ">= 0.5.6"
 gem "nokogiri", "~> 1.13"
 gem "omniauth-facebook", "~> 10.0"
 gem "omniauth-google-oauth2", "~> 1.1", ">= 1.1.1"
-gem "omniauth-rails_csrf_protection", "~> 1.0"
+gem "omniauth-rails_csrf_protection", "~> 2.0", ">= 2.0.0"
 # Update to a normal release once https://github.com/isaacsanders/omniauth-stripe-connect/issues/67 is fixed
 gem "omniauth-stripe-connect", github: "isaacsanders/omniauth-stripe-connect", ref: "468dd9acaccdbba38a38cdbcdf7f10c17be25e89"
 gem "omniauth-twitter", "~> 1.4"
