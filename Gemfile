@@ -67,7 +67,7 @@ gem "alterity", "~> 1.4"
 gem "ancestry", "~> 4.2"
 gem "apple_id", "~> 1.5"
 # AWS SDK Gems
-gem "aws-sdk-s3", "~> 1.117"
+gem "aws-sdk-s3", "~> 1.208", ">= 1.208.0"
 gem "aws-sdk-sqs", "~> 1.69"
 gem "aws-sdk-elastictranscoder", "~> 1.39"
 gem "aws-sdk-autoscaling", "~> 1.84"
