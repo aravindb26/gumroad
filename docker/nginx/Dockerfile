@@ -1,4 +1,4 @@
-FROM nginx:1.23.4
+FROM nginx:1.28.1
 
 # Expire Docker images after 1 week in Quay
 LABEL quay.expires-after=1w
