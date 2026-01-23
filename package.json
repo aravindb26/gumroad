@@ -51,7 +51,7 @@
     "js-yaml": "^4.1.0",
     "json-schema-to-ts": "^3.0.0",
     "libphonenumber-js": "^1.10.15",
-    "lodash": "^4.17.21",
+    "lodash": "^4.17.23",
     "lowlight": "^3.0.0",
     "mailcheck": "^1.1.1",
     "pdfjs-dist": "4.5.136",
