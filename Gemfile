@@ -24,7 +24,7 @@ group :development, :test do
   gem "rubocop-performance", "~> 1.25", require: false
   gem "rubocop-rspec", "~> 3.6", require: false
   gem "rubocop-rake", "~> 0.7", require: false
-  gem "active_record_query_trace", "~> 1.8"
+  gem "active_record_query_trace", "~> 1.9"
   gem "shoulda-matchers", "~> 6.0"
   gem "spring", "~> 4.0"
   gem "spring-commands-rspec", "~> 1.0"
@@ -83,7 +83,7 @@ gem "closure_tree", "~> 7.4"
 gem "color", "~> 1.8"
 gem "countries", "~> 6.0"
 gem "csv", "~> 3.3"
-gem "devise", "~> 4.8"
+gem "devise", "~> 5.0", ">= 5.0.0"
 gem "devise-pwned_password", "~> 0.1"
 gem "discordrb", "~> 3.4"
 gem "doorkeeper", "5.7.1"
